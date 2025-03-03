@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sorting-app" />
+        <module name="thread-factoring" />
+        <module name="suffixing-app-test" />
+        <module name="test-sorting-routine" />
+        <module name="test-quadratic-equation" />
+        <module name="concurrent-tic-tac-toe" />
+        <module name="design-patterns" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
