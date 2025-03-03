@@ -7,8 +7,8 @@
 7. [Concurrent Tic-Tac-Toe](https://github.com/ZaharSirko/practice/tree/master/concurrent-tic-tac-toe-master) — багатопотокова гра "Хрестики-нулики".  
 
 Загальна структура програм
-├── src/
-│ ├── main/ # Вихідний код
-│ ├── test/ # Модульні тести
-├── README.md # Інструкції щодо виконання завдань
-├── pom.xml # Файл конфігурації Maven
+|── src/
+│ |── main/ - Вихідний код
+│ |── test/ - Тести які потрібно пройти щоб виконати завдання
+|── README.md - Інструкції щодо виконання завдань
+|── pom.xml - Файл конфігурації Maven
